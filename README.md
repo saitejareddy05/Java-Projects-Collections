@@ -1,4 +1,4 @@
-# Java Projects Collections
+# Java Projects Collections i did only one contribution to this project so i want to be a good contributer
 
 This repository contains a wide variety of Java projects and code samples, ranging from beginner to advanced level. Projects cover different topics, levels of complexity, and real-world use cases. You’ll find:
 
